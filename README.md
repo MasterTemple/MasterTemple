@@ -1,4 +1,9 @@
-### Hi there 👋
+# MasterTemple
+
+### Discord Bot Projects
+1. Or1gin - Tracks users on EA's Origin platform. It can also update their Discord nickname to match their name on Origin.
+2. Nexus Force - Displays many stats about thousands of items, enemies, npcs, missions, and more in LEGO Universe.
+3. Star Wars Battlefront 2015 Rankings - Displays rankings for SWBF 2015 Competitive players.
 
 <!--
 **MasterTemple/MasterTemple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
