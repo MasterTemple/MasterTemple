@@ -1,4 +1,6 @@
 ### Discord Bot Projects
+#### [Bio1a](https://github.com/MasterTemple/biolaDiscordBot)
+- Interacts with Canvas, allows users to view courses, modules, lessons, grades, tasks, unread messages, and upcoming events at Biola University.
 #### Or1gin (Currently Private)
 - Tracks users on EA's Origin platform. It can also update their Discord nickname to match their name on Origin.
 #### [Nexus Force](https://github.com/MasterTemple/NexusForce)
