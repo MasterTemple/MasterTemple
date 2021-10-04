@@ -5,7 +5,7 @@
 - Tracks users on EA's Origin platform. It can also update their Discord nickname to match their name on Origin.
 #### [Nexus Force](https://github.com/MasterTemple/nexus_force_bot_v5)
 - Displays many stats about thousands of items, enemies, npcs, missions, and more in LEGO Universe.
-#### Star Wars Battlefront 2015 Rankings (Currently Private)
+#### [Star Wars Battlefront 2015 Rankings](https://github.com/MasterTemple/StarWarsBattlefront2015Rankings)
 - Displays rankings, balances matches, reads screenshots, and more for SWBF 2015 Competitive players.
 ### Other Projects
 #### [Harmonize The Gospels](https://github.com/MasterTemple/harmonizeGospels)
