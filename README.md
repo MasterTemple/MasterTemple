@@ -1,3 +1,7 @@
+### Projects
+### [ScriptureHub](https://mastertemple.github.io/ScriptureHub)
+- View Bible passages with corresponding interlinear translations, commentaries, and more!  
+
 ### Discord Bot Projects
 #### [Bio1a](https://github.com/MasterTemple/Bio1a)
 - Interacts with Canvas, allows users to view courses, modules, lessons, grades, tasks, unread messages, and upcoming events at Biola University.
