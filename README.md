@@ -1,6 +1,6 @@
 ### Projects
-### [ScriptureHub](https://mastertemple.github.io/ScriptureHub)
-- View Bible passages with corresponding interlinear translations, commentaries, and more!  
+### [ScriptureHub](https://github.com/MasterTemple/Bio1a)
+- View Bible passages with corresponding interlinear translations, commentaries, and more! [Test here!](https://mastertemple.github.io/ScriptureHub)
 
 ### Discord Bot Projects
 #### [Bio1a](https://github.com/MasterTemple/Bio1a)
