@@ -1,26 +1,40 @@
-## Discord Bots
-### [LEGO Universe Discord Bot](https://github.com/MasterTemple/LEGO-Universe-Discord-Bot)
-- Displays many stats about thousands of items, enemies, npcs, missions, and more in LEGO Universe.
-### [Star Wars Battlefront 2015 Rankings](https://github.com/MasterTemple/StarWarsBattlefront2015Rankings)
-- Displays rankings, balances matches, reads screenshots, and more for SWBF 2015 Competitive players. Tracks users on EA's Origin platform and updates their Discord nickname to match their name on Origin.
-### [Bio1a](https://github.com/MasterTemple/Bio1a)
-- Interacts with Canvas, allows users to view courses, modules, lessons, grades, tasks, unread messages, and upcoming events at Biola University.
+### About Me
 
-## Other Projects
-### [ScriptureHub](https://github.com/MasterTemple/ScriptureHub)
-- View Bible passages with corresponding interlinear translations, commentaries, and more! [Test here!](https://mastertemple.github.io/ScriptureHub)
+- I am a sinner saved by grace alone through faith alone in Jesus Christ alone to the glory of God alone
 
-<!--
-**MasterTemple/MasterTemple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I enjoy using Neovim, Linux, and Rust
 
-Here are some ideas to get you started:
+- I want to use programming to further the advance of God's kingdom
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+
+- [`τόπος`](https://github.com/MasterTemple/topos): [`ripgrep`](https://github.com/BurntSushi/ripgrep) but for Bible verses (combine filters of testaments, genres, books, chapters, and verses); WIP CLI tool + Neovim integration
+
+### Freely Giving
+
+> **Matthew 10:8 BSB**\
+> <sup>8</sup>Heal the sick, raise the dead, cleanse the lepers, drive out demons. _Freely you have received; freely give_.
+
+I am a firm believer in [The Dorean Principle](https://thedoreanprinciple.org/) (the idea that ministry should be supported, not sold), which has implications for [stewarding God's Word](https://copy.church/statement/) in all forms and mediums.
+The prohibitions on [peddling God's Word](https://sellingjesus.org/articles/commercializing-gods-word) apply to all [adaptations of God's Word](https://sellingjesus.org/articles/adaptation), as well as the digital tools and "rights" [inseparably annexed](https://sellingjesus.org/articles/simony#objection-simony-refers-to-immaterial-things-not-material-things) to God's Word.
+
+- [`TheDoreanPrinciple.org`](https://thedoreanprinciple.org/): to learn how to balance the teachings to freely give and the truth that the laborer is worthy of his wages
+
+- [`Freely.Giving`](https://freely.giving): to learn more about freely giving
+
+- [`Copy.Church`](https://copy.church): to learn more about (un)licensing Christian content
+
+- [`SellingJesus.org`](https://sellingJesus.org): to learn more about the commercialization of Christianity
+
+
+| Freely Giving                                                         | Let's copy, church                                              | Selling Jesus                                                               |
+|:---------------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------------------:|
+| [![freely.giving](./assets/freely_giving.svg)](https://freely.giving) | [![copy.church](./assets/copy_church.svg)](https://copy.church) | [![sellingJesus.org](./assets/selling_jesus.svg)](https://sellingJesus.org) |
+
+<!-- | [![freely.giving](https://copy.church/badges/fg_standard_pd.svg)](https://freely.giving) | [![copy.church](https://copy.church/badges/lcc_standard_pd.svg)](https://copy.church) | [![sellingJesus.org](https://copy.church/badges/sj_alt_pd.svg)](https://sellingJesus.org) | -->
+
+### Contact
+
+- **Email**: [`dgmastertemple@gmail.com`](mailto:dgmastertemple@gmail.com)
+
+- **Discord**: `blake3656` or `<@703120460023463986>`
