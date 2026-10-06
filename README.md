@@ -8,7 +8,10 @@
 
 ### Current Projects
 
-- [`τόπος`](https://github.com/MasterTemple/topos): [`ripgrep`](https://github.com/BurntSushi/ripgrep) but for Bible verses (combine filters of testaments, genres, books, chapters, and verses); WIP CLI tool + Neovim integration
+- [`τόπος`](https://github.com/MasterTemple/topos-bible): [`ripgrep`](https://github.com/BurntSushi/ripgrep) but for Bible verses (combine filters of testaments, genres, books, chapters, and verses)
+    - [CLI](https://github.com/MasterTemple/topos-bible/blob/main/crates/topos-cli/README.md): CLI Tool
+    - [PyPI](https://pypi.org/project/topos-bible/): Python Library
+    - [NPM](https://www.npmjs.com/package/topos-bible): TypeScript Library
 
 ### Freely Giving
 
@@ -26,12 +29,12 @@ The prohibitions on [peddling God's Word](https://sellingjesus.org/articles/comm
 
 - [`SellingJesus.org`](https://sellingJesus.org): to learn more about the commercialization of Christianity
 
-- `Simony.info`: to retrieve the doctrine of simony
+- [`Simony.info`](https://simony.info): to retrieve the doctrine of simony
 
 
 | Freely Giving                                                         | Let's copy, church                                              | Selling Jesus                                                               |
 |:---------------------------------------------------------------------:|:---------------------------------------------------------------:|:---------------------------------------------------------------------------:|
-| [![freely.giving](https://copy.church/badges/fg_standard_pde.svg)](https://freely.giving) | [![copy.church](https://copy.church/badges/lcc_standard_pde.svg)](https://copy.church) | [![sellingJesus.org](https://copy.church/badges/sj_alt_pde.svg)](https://sellingJesus.org) |
+| [![freely.giving](./assets/freely_giving.svg)](https://freely.giving) | [![copy.church](./assets/copy_church.svg)](https://copy.church) | [![sellingJesus.org](./assets/selling_jesus.svg)](https://sellingJesus.org) |
 
 
 ### Contact
